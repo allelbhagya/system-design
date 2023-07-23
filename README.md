@@ -2,6 +2,16 @@
 
 Welcome to the System Design Notes repository! This repository serves as a collection of notes on system design, capturing concepts, principles, and best practices.
 
+## Topics covered
+
+### lesson -1
+
+- introduction to system design
+- horizontal and vertical scaling
+- terminology and steps
+
+### lesson -2
+
 ### resources
 
 https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
