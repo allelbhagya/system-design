@@ -12,6 +12,10 @@ Welcome to the System Design Notes repository! This repository serves as a colle
 
 ### lesson -2
 
+- load balancing
+- consistent hashing
+- message queue
+
 ### resources
 
 https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
