@@ -19,8 +19,11 @@ Welcome to the System Design Notes repository! This repository serves as a colle
 ### resources
 
 https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+
 interview - https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
+
 https://www.hiredintech.com/classrooms/system-design/lesson/52
+
 https://github.com/donnemartin/system-design-primer
 
 ### intro
