@@ -16,6 +16,12 @@ Welcome to the System Design Notes repository! This repository serves as a colle
 - consistent hashing
 - message queue
 
+### lesson -3
+
+- Microservice and Monolith service
+- database sharding
+- caching & distributed caching
+
 ### resources
 
 https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
